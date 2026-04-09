@@ -13,7 +13,7 @@ public class DevTestController {
         return "About Page";
     }
 
-     public  String getContact(){
+    public  String getContact(){
         return "Contact Page";
     }
 }
