@@ -12,4 +12,8 @@ public class DevTestController {
     public  String getAbout(){
         return "About Page";
     }
+
+     public  String getContact(){
+        return "Contact Page";
+    }
 }
