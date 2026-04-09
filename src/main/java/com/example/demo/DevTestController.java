@@ -8,4 +8,8 @@ public class DevTestController {
     public  String getHome(){
         return "Home Page";
     }
+
+    public  String getAbout(){
+        return "About Page";
+    }
 }
